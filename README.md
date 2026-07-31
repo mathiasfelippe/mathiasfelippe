@@ -1,109 +1,73 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=200&section=header&text=Mathias%20Gomes&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Systems%20Development%20Student%20%40%20SENAI&descAlignY=58&descSize=18&animation=fadeIn"/>
+<br/>
 
-<br>
+# MATHIAS FELIPPE
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=%3E+Web+Development+Student_;%3E+UI%2FUX+Design+Enthusiast_;%3E+Always+learning+something+new_"/>
+**A CODE DOSSIER · VOL. I**
 
-<br><br>
+`EDITION MMXXVI` · `SÃO PAULO, BRAZIL` · `IN PROGRESS`
 
-<img src="https://img.shields.io/badge/status-studying-58A6FF?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/focus-frontend%20%26%20backend-0D1117?style=for-the-badge&logo=codeforces&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/based%20in-Brazil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<br/>
 
-</div>
-
-<br>
-
-## 📡 `About me`
-
-```yaml
-name: Mathias Gomes
-role: Systems Development Student
-institution: SENAI
-
-interests:
-  - Web Development
-  - UI/UX Design
-  - Technology
-
-mission: >
-  Build creative and functional digital experiences
-  that merge clean code with thoughtful design.
-```
-
-<br>
-
-## ⚙️ Tech Stack
-
-<div align="center">
-
-**Development**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react&theme=dark"/>
-
-<br><br>
-
-**Design & Tools**
-
-<img src="https://skillicons.dev/icons?i=figma,github,vscode&theme=dark"/>
+[![Status](https://img.shields.io/badge/STATUS-Open%20to%20Internship-D64545?style=flat-square&labelColor=141414)](#)
+[![Location](https://img.shields.io/badge/LOCATION-S%C3%A3o%20Paulo%2C%20Brazil-E8B84B?style=flat-square&labelColor=141414)](#)
 
 </div>
 
-<br>
+<br/>
 
-## 🚀 Currently Exploring
+## ABOUT
 
-<div align="center">
-<table>
-<tr>
-<td width="33%" align="center">
+> *"Still an apprentice by title, but already writing code that reads like intention, not luck."*
 
-<img src="https://skillicons.dev/icons?i=react" width="45"/>
+Mathias is a Systems Development student at SENAI São Paulo, currently looking for an internship in software development.
 
-### React
+He's building his path line by line, treating every function like a well-tailored suit: nothing overstated, everything intentional.
 
-Learning component-based development and building modern, dynamic interfaces.
+He's not chasing trends. He's building his own — the kind where discipline doesn't need to shout.
 
-</td>
-<td width="33%" align="center">
+<br/>
 
-<img src="https://skillicons.dev/icons?i=php" width="45"/>
+---
 
-### PHP + MySQL
+<br/>
 
-Improving backend logic, API design, and database integration.
-
-</td>
-<td width="33%" align="center">
-
-<img src="https://skillicons.dev/icons?i=figma" width="45"/>
-
-### UI/UX
-
-Designing cleaner, more intuitive, and accessible experiences.
-
-</td>
-</tr>
-</table>
-</div>
-
-<br>
-
-## 🌐 Connect
+## THE SKILLS DOSSIER
 
 <div align="center">
 
-<a href="https://github.com/mathiasfelippe"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mathias-gomes-917014426/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github&theme=dark" />
 
 </div>
 
-<br>
+<sub>*This set reflects the current toolkit — not a finished archive, but a work in progress.*</sub>
+
+<br/>
+
+---
+
+<br/>
+
+## CURRENTLY EXPLORING
+
+**01** — Front-end fundamentals · building interfaces with the same care as good design
+
+**02** — UI/UX principles · because a clean interface is still an aesthetic choice
+
+**03** — First solo project · an unpublished piece, coming soon to the profile
+
+<br/>
+
+---
+
+<br/>
+
+## CONNECT
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=100&section=footer"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-141414?style=flat-square&logo=linkedin&logoColor=E8B84B)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-141414?style=flat-square&logo=github&logoColor=E8B84B)](#)
 
 </div>
