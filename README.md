@@ -35,7 +35,7 @@ He's not chasing trends. He's building his own — the kind where discipline doe
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,mysql,github&theme=dark" />
 
 </div>
 
@@ -52,8 +52,6 @@ He's not chasing trends. He's building his own — the kind where discipline doe
 **01** — Front-end fundamentals · building interfaces with the same care as good design
 
 **02** — UI/UX principles · because a clean interface is still an aesthetic choice
-
-**03** — First solo project · an unpublished piece, coming soon to the profile
 
 <br/>
 
